@@ -1,0 +1,19 @@
+,Borough,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Downtown Toronto,"Harbourfront,Regent Park",43.6542599,-79.3606359,0,Coffee Shop,Bakery,Breakfast Spot,Historic Site,Performing Arts Venue,Chocolate Shop,Mexican Restaurant,Pub,Restaurant,Spa
+1,Downtown Toronto,"Ryerson,Garden District",43.6571618,-79.37893709999999,0,Café,Sandwich Place,American Restaurant,Burger Joint,Clothing Store,Pizza Place,Beer Bar,Plaza,Ramen Restaurant,Comic Shop
+2,Downtown Toronto,St. James Town,43.6514939,-79.3754179,4,Gastropub,Coffee Shop,Restaurant,Japanese Restaurant,Hotel,Performing Arts Venue,Church,Middle Eastern Restaurant,Cosmetics Shop,Creperie
+3,Downtown Toronto,Berczy Park,43.6447708,-79.3733064,3,Seafood Restaurant,Farmers Market,Cocktail Bar,Park,Concert Hall,Italian Restaurant,Jazz Club,Liquor Store,Museum,Bistro
+4,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,1,Coffee Shop,Park,Spa,Bubble Tea Shop,Modern European Restaurant,Chinese Restaurant,Pizza Place,Italian Restaurant,Ramen Restaurant,Bar
+5,Downtown Toronto,Christie,43.669542,-79.4225637,3,Grocery Store,Café,Park,Athletics & Sports,Nightclub,Coffee Shop,Restaurant,Convenience Store,Baby Store,Italian Restaurant
+6,Downtown Toronto,"Adelaide,King,Richmond",43.65057120000001,-79.3845675,3,Asian Restaurant,Steakhouse,Food Court,Speakeasy,Noodle House,Opera House,Pizza Place,Coffee Shop,Plaza,Concert Hall
+7,Downtown Toronto,"Harbourfront East,Toronto Islands,Union Station",43.6408157,-79.38175229999997,0,Hotel,Park,Café,Italian Restaurant,Salad Place,Bakery,Plaza,Skating Rink,Sporting Goods Shop,Sports Bar
+8,Downtown Toronto,"Design Exchange,Toronto Dominion Centre",43.6471768,-79.38157640000001,3,Café,Coffee Shop,Deli / Bodega,Gastropub,Hotel,Pub,Restaurant,Japanese Restaurant,Bakery,Hotel Bar
+9,Downtown Toronto,"Commerce Court,Victoria Hotel",43.6481985,-79.37981690000002,3,Café,Gastropub,Deli / Bodega,Museum,Coffee Shop,Pub,Restaurant,Japanese Restaurant,Bakery,Hotel
+10,Downtown Toronto,"Harbord,University of Toronto",43.6626956,-79.4000493,3,Bakery,Japanese Restaurant,Bookstore,Restaurant,Video Game Store,Italian Restaurant,Comfort Food Restaurant,College Gym,Chinese Restaurant,Café
+11,Downtown Toronto,"Chinatown,Grange Park,Kensington Market",43.6532057,-79.4000493,0,Café,Caribbean Restaurant,Mexican Restaurant,Vietnamese Restaurant,Organic Grocery,Arts & Crafts Store,Italian Restaurant,Dessert Shop,Bar,Bakery
+12,Downtown Toronto,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",43.6289467,-79.3944199,0,Airport Lounge,Airport Service,Airport Terminal,Boat or Ferry,Airport,Airport Food Court,Airport Gate,Sculpture Garden,Boutique,Harbor / Marina
+13,Downtown Toronto,Rosedale,43.6795626,-79.37752940000001,1,Park,Trail,Playground,Video Game Store,Concert Hall,Café,Caribbean Restaurant,Chinese Restaurant,Chocolate Shop,Church
+14,Downtown Toronto,Stn A PO Boxes 25 The Esplanade,43.6464352,-79.37484599999998,2,Farmers Market,Cocktail Bar,Café,Park,Restaurant,Food Truck,Hotel,Concert Hall,Jazz Club,Museum
+15,Downtown Toronto,"Cabbagetown,St. James Town",43.667967,-79.3676753,0,Restaurant,Indian Restaurant,Café,General Entertainment,Bakery,Butcher,Pet Store,Pub,Jewelry Store,Gastropub
+16,Downtown Toronto,"First Canadian Place,Underground city",43.6484292,-79.3822802,3,Café,Coffee Shop,Steakhouse,Gastropub,Gym / Fitness Center,Pizza Place,Pub,Restaurant,Seafood Restaurant,Deli / Bodega
+17,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000002,0,Park,Mexican Restaurant,Ramen Restaurant,Restaurant,Japanese Restaurant,Salon / Barbershop,Bar,Bookstore,Pizza Place,Piano Bar
